@@ -1,0 +1,6 @@
+ {
+  "schemaVersion": 2,
+  "dockerfilePath": "./Frontend_UI/Dockerfile",
+  "buildContext": "./Frontend_UI"
+
+ }
